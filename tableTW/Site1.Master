@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head runat="server">
-    <title>Phần mềm quản lý BVTW Huế</title>
+    <title>Phần mềm quản lý công việc</title>
         <meta charset="utf-8"/>
     <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no"/>
     <!-- Bootstrap CSS -->
